@@ -1,6 +1,6 @@
 [user]
-	name = User name
-	email = myemail@gmail.com
+  name = Henrique LC
+  email = henriquemanduca@live.com
 [alias]
   a = add																		# Add file contents to the index
   ai = add --interactive										# Add modified contents in the working tree interactively to the index.
